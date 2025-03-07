@@ -146,7 +146,7 @@ me.say_hi()
 [![wakatime](https://wakatime.com/badge/user/747764c1-1812-4199-a3fb-25cb1b7500ce.svg)](https://wakatime.com/@747764c1-1812-4199-a3fb-25cb1b7500ce)
 
 
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 ---
 
 <div align="center">
