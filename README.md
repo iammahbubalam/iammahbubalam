@@ -21,25 +21,7 @@
 ## 👨‍💻 About Me
 <table>
 <tr>
-<td>
 
-```python
-class MahbubAlam:
-    def __init__(self):
-        self.pronouns = "He/Him"
-        self.role = ["ML Engineer", "Researcher", "Backend Developer"]
-        self.language_spoken = ["English", "Bengali"]
-        self.currently_working_on = "Advanced AI Research Projects"
-        self.currently_learning = ["LLMs", "Agentic AI", "Distributed Systems"]
-        
-    def say_hi(self):
-        print("Thanks for visiting my GitHub! Let's connect and build something amazing together!")
-
-me = MahbubAlam()
-me.say_hi()
-```
-
-</td>
 <td>
 
 - 🧠 Passionate about **Machine Learning, Deep Learning, NLP, and Computer Vision**
