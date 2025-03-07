@@ -19,7 +19,7 @@
 </div>
 
 ## 👨‍💻 About Me
-<table>
+<table align="center">
 <tr>
 
 <td>
@@ -53,12 +53,12 @@
 ## ⚡ Contribution Streak & Stats
 
 
-  <div align="center">
-  <!-- More reliable alternative for streak stats -->
-  <a href="https://github.com/iammahbubalam">
-    <img src="https://streak-stats.demolab.com?user=iammahbubalam&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=2986CC&fire=2986CC&currStreakNum=FFFFFF&ring=2986CC" alt="GitHub Streak" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=iammahbubalam&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages by Repo" /></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=iammahbubalam&theme=prussian&hide_border=false" alt="Top Languages by Commit" /></td>
+  </tr>
+</table>
 
 
 <div align="center">
