@@ -70,16 +70,14 @@ me.say_hi()
 
 ## ⚡ Contribution Streak & Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iammahbubalam&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=2986CC&fire=2986CC&currStreakNum=FFFFFF&ring=2986CC" alt="GitHub Streak" />
+
+  <div align="center">
+  <!-- More reliable alternative for streak stats -->
+  <a href="https://github.com/iammahbubalam">
+    <img src="https://streak-stats.demolab.com?user=iammahbubalam&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=2986CC&fire=2986CC&currStreakNum=FFFFFF&ring=2986CC" alt="GitHub Streak" />
+  </a>
 </div>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=iammahbubalam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&include_all_commits=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammahbubalam&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" /></td>
-  </tr>
-</table>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iammahbubalam&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
