@@ -2,12 +2,12 @@
   
 # Md. Mahbub Alam
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Machine%20Learning%20Engineer%20|%20AI%20Researcher%20|%20Backend%20Engineere&fontSize=24&fontAlignY=35&animation=fadeIn&desc=Building%20intelligent%20systems%20with%20passion&descAlignY=55&fontColor=ffffff)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Mahbub%20Alam&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Machine%20Learning%20Engineer%20|%20AI%20Researcher%20|%20Backend%20Engineer&descAlignY=60&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=2986cc&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+Researcher;Backend+Developer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2986cc&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+Researcher;Backend+Developer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3MzJlM2Y2MDVkYTBhZWJmYzU2ZjQ0NTRjZDM3N2Y0ZjBiMzc0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
-  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3MzJlM2Y2MDVkYTBhZWJmYzU2ZjQ0NTRjZDM3N2Y0ZjBiMzc0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iammahbubalam)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iammahbubalam)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/iammahbubalam)
@@ -18,7 +18,11 @@
   
 </div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
+<table>
+<tr>
+<td>
+
 ```python
 class MahbubAlam:
     def __init__(self):
@@ -35,51 +39,79 @@ me = MahbubAlam()
 me.say_hi()
 ```
 
+</td>
+<td>
+
 - 🧠 Passionate about **Machine Learning, Deep Learning, NLP, and Computer Vision**
-- 💻 Experienced in developing robust backend systems using Java, Python, Node.js, and Go
-- 📚 Published researcher with contributions to the ML community
-- 🌱 Always learning and exploring new technologies in AI and software engineering
-- 💬 Ask me about Machine Learning, Backend Development, System Design, or Database Architecture
-- 🔭 Working on building intelligent systems that solve real-world problems
-- 📫 How to reach me: [malam212082@bscse.uiu.ac.bd](mailto:malam212082@bscse.uiu.ac.bd)
+- 💻 Experienced in developing robust **backend systems** 
+- 📚 **Published researcher** with contributions to the ML community
+- 🌱 Always learning and exploring **new technologies** in AI
+- 💬 Ask me about **ML, Backend, System Design, or Database Architecture**
+- 🔭 Working on building **intelligent systems** that solve real-world problems
+- 📫 Reach me at: [malam212082@bscse.uiu.ac.bd](mailto:malam212082@bscse.uiu.ac.bd)
+
+</td>
+</tr>
+</table>
+
+## 📈 Activity & Contribution Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammahbubalam&theme=tokyonight" width="100%" alt="Profile Details" />
+</div>
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammahbubalam&theme=tokyonight" alt="Top Languages by Repo" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iammahbubalam&theme=tokyonight" alt="Top Languages by Commit" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammahbubalam&theme=tokyonight" alt="Stats" /></td>
+  </tr>
+</table>
+
+## ⚡ Contribution Streak & Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iammahbubalam&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=2986CC&fire=2986CC&currStreakNum=FFFFFF&ring=2986CC" alt="GitHub Streak" />
+</div>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=iammahbubalam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&include_all_commits=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammahbubalam&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" /></td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iammahbubalam&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+</div>
 
 ## 🛠️ My Tech Arsenal
 
-<details open>
-<summary><b>🧠 Machine Learning & AI</b></summary>
-<br>
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
-</p>
-</details>
+### 🧠 Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
-<details open>
-<summary><b>🌐 Backend Development</b></summary>
-<br>
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/></a>
-</p>
-</details>
+### 🌐 Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 <details>
 <summary><b>🖥️ Frontend Development</b></summary>
@@ -113,36 +145,21 @@ me.say_hi()
 </p>
 </details>
 
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iammahbubalam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammahbubalam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=prs,issues" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammahbubalam&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iammahbubalam&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iammahbubalam&bg_color=1a1b27&color=628fdb&line=38bdae&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+[![wakatime](https://wakatime.com/badge/user/747764c1-1812-4199-a3fb-25cb1b7500ce.svg)](https://wakatime.com/@747764c1-1812-4199-a3fb-25cb1b7500ce)
 
 
 
-
+---
 
 <div align="center">
 
-## 📌 Profile Views
+## 📌 Profile Views & Connections
   
-  ![Visitors](https://komarev.com/ghpvc/?username=iammahbubalam&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=iammahbubalam&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/iammahbubalam?style=for-the-badge&logo=github&color=2986cc)
+![Stars](https://img.shields.io/github/stars/iammahbubalam?style=for-the-badge&logo=github&color=2986cc)
   
-  <p>Let's connect and collaborate on exciting projects!</p>
+<h3>Let's connect and collaborate on exciting projects! 🚀</h3>
 </div>
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
