@@ -68,9 +68,7 @@ me.say_hi()
 <br>
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
@@ -105,6 +103,7 @@ me.say_hi()
   <a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
   <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
   <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
   <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
@@ -114,12 +113,7 @@ me.say_hi()
 </p>
 </details>
 
-## 🏆 Recent Achievements
 
-- 🏅 Published research papers in the field of Machine Learning
-- 🚀 Developed and deployed production-ready ML systems
-- 🎓 Contributed to open-source AI projects
-- 💡 Implemented innovative backend solutions for scalable systems
 
 ## 📊 GitHub Stats
 
@@ -138,27 +132,9 @@ me.say_hi()
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammahbubalam&bg_color=1a1b27&color=628fdb&line=38bdae&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
-## 🌟 Featured Projects
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
-[![AI Project](https://github-readme-stats.vercel.app/api/pin/?username=iammahbubalam&repo=YourMLRepo&theme=tokyonight)](https://github.com/iammahbubalam/YourMLRepo)
-[![Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=iammahbubalam&repo=YourBackendRepo&theme=tokyonight)](https://github.com/iammahbubalam/YourBackendRepo)
 
-</div>
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Understanding LLMs and their Applications](https://your-blog-link)
-- [Building Scalable Backend Systems with Spring Boot](https://your-blog-link)
-- [The Future of Agentic AI](https://your-blog-link)
-<!-- BLOG-POST-LIST:END -->
-
-## 🔍 Research Publications
-<!-- PUBLICATIONS:START -->
-- [Paper Title 1](https://scholar.google.com/citations?user=Gg4yXLoAAAAJ&hl=en&oi=ao)
-- [Paper Title 2](https://scholar.google.com/citations?user=Gg4yXLoAAAAJ&hl=en&oi=ao)
-<!-- PUBLICATIONS:END -->
 
 <div align="center">
 
