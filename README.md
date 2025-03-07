@@ -2,7 +2,7 @@
   
 # Md. Mahbub Alam
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Machine%20Learning%20Engineer%20|%20Researcher%20|%20Backend%20Developer&fontSize=24&fontAlignY=35&animation=fadeIn&desc=Building%20intelligent%20systems%20with%20passion&descAlignY=55&fontColor=ffffff)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Machine%20Learning%20Engineer%20|%20AI%20Researcher%20|%20Backend%20Engineere&fontSize=24&fontAlignY=35&animation=fadeIn&desc=Building%20intelligent%20systems%20with%20passion&descAlignY=55&fontColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=2986cc&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+Researcher;Backend+Developer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
 
