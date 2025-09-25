@@ -2,7 +2,7 @@
   
 # Md. Mahbub Alam
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Mahbub%20Alam&fontSize=50&fontAlignY=40&animation=fadeIn&desc=%20%20Backend%20Engineer%20%|AI/ML%20Researcher%20|&descAlignY=60&fontColor=ffffff)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Mahbub%20Alam&fontSize=50&fontAlignY=40&animation=fadeIn&desc=%20%20Backend%20Engineer%20|%20AI/ML%20Researcher%20&descAlignY=60&fontColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2986cc&center=true&vCenter=true&width=600&lines=AI/ML+Researcher;Backend+Engineer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
 
@@ -24,9 +24,7 @@
 
 <td>
 
-- 🧠 Passionate about **Machine Learning, Computer Vision and Gen AI**
-- 💻 Experienced in developing robust **backend systems** 
-- 📚 **Published researcher** with contributions to the ML community
+- 🧠 Passionate about **Software Engineering, System Architecture, Building Scalable Systems, and Machine Learning**
 - 🌱 Always learning and exploring **new technologies** 
 - 📫 Reach me at: [mdmahbubnirjon@gmail.com](mailto:mdmahbubnirjon@gmail.com)
 
