@@ -19,47 +19,42 @@
 </div>
 
 ## 👨‍💻 About Me
-<table align="center">
+<div align="center">
+<table>
 <tr>
-
 <td>
 
 - 🧠 Passionate about **Software Engineering, System Architecture, Building Scalable Systems, and Machine Learning**
-- 🌱 Always learning and exploring **new technologies** 
+- 🌱 Always learning and exploring **new technologies**
 - 📫 Reach me at: [mdmahbubnirjon@gmail.com](mailto:mdmahbubnirjon@gmail.com)
 
 </td>
 </tr>
 </table>
+</div>
 
 ## 📈 Activity & Contribution Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammahbubalam&theme=tokyonight" width="100%" alt="Profile Details" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" />
+</div>
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td><img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" /></td>
+    <td><img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" /></td>
+    <td><img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="General Stats" /></td>
+  </tr>
+</table>
 </div>
 
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammahbubalam&theme=tokyonight" alt="Top Languages by Repo" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iammahbubalam&theme=tokyonight" alt="Top Languages by Commit" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammahbubalam&theme=tokyonight" alt="Stats" /></td>
-  </tr>
-</table>
-
-## ⚡ Contribution Streak & Stats
-
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=iammahbubalam&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages by Repo" /></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=iammahbubalam&theme=prussian&hide_border=false" alt="Top Languages by Commit" /></td>
-  </tr>
-</table>
-
-
-
-[![wakatime](https://wakatime.com/badge/user/747764c1-1812-4199-a3fb-25cb1b7500ce.svg)](https://wakatime.com/@747764c1-1812-4199-a3fb-25cb1b7500ce)
-
+<div align="center">
+  <a href="https://wakatime.com/@747764c1-1812-4199-a3fb-25cb1b7500ce">
+    <img src="https://wakatime.com/badge/user/747764c1-1812-4199-a3fb-25cb1b7500ce.svg" alt="Wakatime Badge">
+  </a>
+</div>
 
 ---
 
