@@ -51,6 +51,12 @@
 </div>
 
 <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iammahbubalam)](https://git.io/streak-stats)
+</div>
+<br/>
+
+<div align="center">
   <a href="https://wakatime.com/@747764c1-1812-4199-a3fb-25cb1b7500ce">
     <img src="https://wakatime.com/badge/user/747764c1-1812-4199-a3fb-25cb1b7500ce.svg" alt="Wakatime Badge">
   </a>
