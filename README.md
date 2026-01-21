@@ -49,11 +49,6 @@
   </tr>
 </table>
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iammahbubalam)](https://git.io/streak-stats)
-</div>
 <br/>
 
 <div align="center">
@@ -65,7 +60,7 @@
 ---
 
 <div align="center">
-
+![GitHub Stats](https://streak-stats.demolab.com?user=iammahbubalam&theme=default&hide_border=true)
 ## 📌 Profile Views & Connections
   
 ![Visitors](https://komarev.com/ghpvc/?username=iammahbubalam&label=Profile%20views&color=0e75b6&style=for-the-badge)
